@@ -24,15 +24,14 @@ The final results were presented through a structured PowerPoint presentation th
 - **JupyterLab** – Development and analysis environment
 - **Microsoft PowerPoint** – Data storytelling and presentation
 
-## 🔍 Key Insights
+## 🔍 Key Findings
 
-- **C** had the highest number of job postings in the collected dataset, with **25,114 postings**.
-- **Swift** had the highest annual average salary among the analyzed programming languages, at **$130,801**.
-- **JavaScript** was the most-used programming language and also showed strong future preference.
-- **PostgreSQL** led both current database usage (**25,910 respondents**) and future preference (**26,904 respondents**).
-- The **25–34 age group** represented the largest share of respondents at **41.3%**.
-- **Bachelor's degree holders** formed the largest education group.
-- **AWS, React, and Node.js** were among the prominent technologies identified in the technology analysis.
+- **Job Market:** C had the highest number of job postings in the collected dataset, with **25,114 postings**.
+- **Salary:** Swift had the highest annual average salary among the analyzed programming languages, at **$130,801**.
+- **Programming Languages:** JavaScript was the most-used programming language and showed strong future preference.
+- **Databases:** PostgreSQL led both current database usage (**25,910 respondents**) and future preference (**26,904 respondents**).
+- **Demographics:** The **25–34 age group** was the largest respondent group at **41.3%**, while Bachelor's degree holders formed the largest education group.
+- **Future Technologies:** AWS, React, and Node.js were among the prominent technologies identified in the analysis.
   
 
 ## 🎯 Conclusion
